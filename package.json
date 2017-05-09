@@ -1,0 +1,27 @@
+{
+  "name": "kodilla-jquery1",
+  "version": "1.0.0",
+  "description": "jquery1",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taurus83/jQuery1.git"
+  },
+  "keywords": [
+    "jquery1"
+  ],
+  "author": "Piotr Rucinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taurus83/jQuery1/issues"
+  },
+  "homepage": "https://github.com/Taurus83/jQuery1#readme"
+}
